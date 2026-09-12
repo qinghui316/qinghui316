@@ -20,7 +20,7 @@
 
 通过结构化变更与多 Worktree 协作，把需求、实现、审查和验收连接起来；再将经过验证的经验回流到项目知识中，供后续开发复用。
 
-### Agent Harness Orchestrator · 多 Agent 编程工作台
+### [Agent Harness Orchestrator](https://github.com/qinghui316/agent-harness-orchestrator) · 多 Agent 编程工作台
 
 将任务拆解、执行状态、并行开发、验证审查和人工确认放进同一个工作台。通过任务编排与 Worktree 隔离组织开发过程，让任务进度、执行证据和需要人工判断的节点更清楚。
 
