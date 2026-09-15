@@ -20,9 +20,9 @@
 
 通过结构化变更与多 Worktree 协作，把需求、实现、审查和验收连接起来；再将经过验证的经验回流到项目知识中，供后续开发复用。
 
-### [Agent Harness Orchestrator](https://github.com/qinghui316/agent-harness-orchestrator) · 多 Agent 编程工作台
+### [Beaver Code](https://github.com/qinghui316/beaver-code) · AI Agent 开发桌面工作台
 
-将任务拆解、执行状态、并行开发、验证审查和人工确认放进同一个工作台。通过任务编排与 Worktree 隔离组织开发过程，让任务进度、执行证据和需要人工判断的节点更清楚。
+把项目理解、需求对话、任务执行、验证审查和人工确认放进同一个本地桌面工作台。提供 Agent 直连开发与 AHO 多 Agent 协作两种模式，通过任务编排与 Worktree 隔离组织开发过程，让任务进度、执行证据和需要人工判断的节点更清楚。
 
 我关注长任务的状态管理、失败恢复和人工接管，让人能够看清 Agent 正在做什么，并在关键节点参与决策。
 
